@@ -48,11 +48,11 @@
 
 
         <div class="box-body font_kecil" style="overflow-x: auto;             overflow-y: hidden;     white-space: nowrap; background-color: #faf7f0;">
-
-
-
 <center>
-    <ul id="tree-data_water" style="display:none">
+
+
+  <div class="col-sm-6">
+<ul id="tree-data_water" style="display:none">
       <li style="background-color:#fcdd86 !important; height: 100px !important; ">
             
             
@@ -74,11 +74,10 @@
 
 
 <div id="tree-view"></div>  
+  </div>
 
-<div style="clear:both" ></div>
-<hr>
-
-
+  <div class="col-sm-6">
+    
     <ul id="tree-data_wtp" style="display:none">
       <li style="background-color:#f1d5f5 !important; height: 100px !important; ">
             
@@ -111,11 +110,12 @@
 
 
 <div id="tree-view_wtp"></div>  
-    </center>
+  </div>
 
 
-<div style="clear:both" ></div>
-  
+<div style="clear:both;"></div>
+   <br> 
+
 
             </center>
             

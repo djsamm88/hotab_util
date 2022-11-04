@@ -47,15 +47,15 @@
             </li>
             
             <li>
-              <a href="#" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/struktur_steam',' Steam Structure');return false;">
-                <i class="fa fa-link"></i> <span>Steam FlowMeter  <span class="label label-warning pull-right badge_gudang"></span></span></span>
+              <a href="#" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/struktur_steam','  Flowmeter Steam Structure');return false;">
+                <i class="fa fa-link"></i> <span> FlowMeter Steam <span class="label label-warning pull-right badge_gudang"></span></span></span>
               </a>
             </li>
 
 
             <li>
-              <a href="#" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/struktur_water/','Water Structure');return false;">
-                <i class="fa fa-link"></i> <span>Water FlowMeter </span>
+              <a href="#" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/struktur_water/','Water Flowmeter Structure');return false;">
+                <i class="fa fa-link"></i> <span> FlowMeter Water </span>
               </a>
             </li>
 
@@ -100,7 +100,7 @@
 
           <ul class="treeview-menu">
              <li>
-              <a href="#" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/laporan_power_meter?go=0','Laporan Power Meter');return false;">
+              <a href="#" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/laporan_power_meter?go=0','Power Meter Report');return false;">
                 <i class="fa fa-link"></i> <span>Power Meter Log</span>
               </a>
             </li>
@@ -113,13 +113,13 @@
             
             <li>
               <a href="#" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/laporan_flowmeter_steam?go=0','FlowMeter Steam');return false;">
-                <i class="fa fa-link"></i> <span>Steam FlowMeter  <span class="label label-warning pull-right badge_gudang"></span></span></span>
+                <i class="fa fa-link"></i> <span> FlowMeter Steam <span class="label label-warning pull-right badge_gudang"></span></span></span>
               </a>
             </li>
 
             <li>
               <a href="#" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/laporan_flowmeter_water?go=0','FlowMeter Water');return false;">
-                <i class="fa fa-link"></i> <span>Water FlowMeter  <span class="label label-warning pull-right badge_gudang"></span></span></span>
+                <i class="fa fa-link"></i> <span> FlowMeter Water <span class="label label-warning pull-right badge_gudang"></span></span></span>
               </a>
             </li>
 

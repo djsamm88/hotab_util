@@ -70,7 +70,7 @@ desired effect
 |               | sidebar-mini                            |
 |---------------------------------------------------------|
 -->
-<body class="hold-transition skin-yellow sidebar-collapse">
+<body class="hold-transition skin-blue sidebar-collapse">
 <div class="wrapper">
 
   <!-- Main Header -->
@@ -82,7 +82,7 @@ desired effect
       <span class="logo-mini"><b>Sim</b></span>
       <!-- logo for regular state and mobile devices -->
       <span class="logo-lg"><b>
-        <img src="<?php echo base_url()?>assets/img/sinarmas_logo.png" width="140px">
+        <img src="<?php echo base_url()?>assets/img/sinarmas.png" width="140px">
       </b></span>
     </a>
 

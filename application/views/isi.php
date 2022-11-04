@@ -15,13 +15,13 @@
         -------------------------->    
       <div class="row">
       <div class="col-sm-3">
-        <img src="<?php echo base_url()?>assets/img/oneheart.png" class="img img-rounded" width="100%" style="border:3px solid #f39c12; padding: 25px;">
+        <img src="<?php echo base_url()?>assets/img/oneheart.png" class="img img-rounded" width="100%" style="border:3px solid #3c8dbc; padding: 25px;">
         </div>
     
 
     <div class="col-sm-9">
     <!-- Default box -->
-      <div class="box box-warning">
+      <div class="box box-info">
         <div class="box-header with-border">
           <h3 class="box-title">Informasi Login: </h3>
 
@@ -62,7 +62,7 @@
 
     
     <!-- Default box -->
-      <div class="box box-warning">
+      <div class="box box-info">
         <div class="box-header with-border">
           <h3 class="box-title"></h3>
 
@@ -92,11 +92,11 @@
                     </div>  
 
                     <div class="col-sm-4">
-                          <button class="btn btn-primary btn-block btn-huge" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/struktur_steam',' Steam Structure');return false;">FLOWMETER STEAM</button>
+                          <button class="btn btn-primary btn-block btn-huge" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/struktur_steam',' Flowmeter Steam  Structure');return false;">FLOWMETER STEAM</button>
                     </div>  
 
                     <div class="col-sm-4">
-                          <button class="btn btn-primary btn-block btn-huge" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/struktur_water/','Water Structure');return false;">FLOWMETER WATER</button>
+                          <button class="btn btn-primary btn-block btn-huge" onclick="eksekusi_controller('<?php echo base_url()?>index.php/welcome/struktur_water/','Flowmeter Water  Structure');return false;">FLOWMETER WATER</button>
                     </div>  
 
 
